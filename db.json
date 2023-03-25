@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "chathura",
+      "lastName": "prabashwara",
+      "email": "chathuraprabashwara@gmail.com",
+      "dob": "1996-05-23T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "Axiata Digital Lab",
+      "experience": "2",
+      "package": "250000",
+      "id": 1
+    },
+    {
+      "firstName": "sachithra",
+      "lastName": "prabodani",
+      "email": "sachithraa@gmail.com",
+      "dob": "1997-11-20T18:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "MASS",
+      "experience": "1",
+      "package": "120000",
+      "id": 3
+    }
+  ]
+}
